@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**Nuravar/Nuravar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Mechatronics & Biomedical Engineering student at McMaster. I build cool things at the crossroads of **mechanical systems + software** — from EV cooling ⚡ to race car validation 🏎️.  
 
-Here are some ideas to get you started:
+Outside of school, you’ll catch me playing **soccer ⚽**, **violin 🎻**, or doing **graphic design 🎨**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Now
+Looking for summer 2026 engineering internships in North America!
+
+
+### What I was Up To
+- Interning in **R&D Engineering @ Dana Incorporated**  
+- Building racecars for design teams at McMaster University (Formula SAE and SolarCar) 🚗  
+- Cooking up side projects ideas 💡  
+
+### Contact Me
+I love meeting new people! Reach me via email [kothandv@mcmaster.ca](mailto:kothandv@mcmaster.ca) or [LinkedIn](https://www.linkedin.com/in/varun-ram/).
